@@ -8,7 +8,7 @@
     <link href="/2024/05/13/src/"/>
     <url>/2024/05/13/src/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文档</p><p>图片为</p><p><img src="/../../themes/hexo-theme-fluid-master/source/img/index.png" alt="index"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文档</p><p>图片为</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">![<span class="hljs-string">index</span>](<span class="hljs-link">/img/index.png</span>)<br></code></pre></td></tr></table></figure><p><img src="/../../themes/hexo-theme-fluid-master/source/img/index.png" alt="index"></p>]]></content>
     
     
     <categories>
