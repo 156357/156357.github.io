@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>src</title>
+    <link href="/2024/05/13/src/"/>
+    <url>/2024/05/13/src/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文档</p><p>图片为</p><p><img src="/../img/index.png"></p><p>11123123123</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>src漏洞挖掘</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>src</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/05/12/hello-world/"/>
     <url>/2024/05/12/hello-world/</url>
